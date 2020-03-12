@@ -1,7 +1,7 @@
 # Safe-Box
 A Tiva C-Based Safe-Box Project Implemented in C.
 
-# Team Members
+# Team Members  :muscle:
 
 Name | ID
 ------------ | -------------
