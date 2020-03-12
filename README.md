@@ -16,10 +16,10 @@ Michael Magdy | 16T0076
 # Overview
 The Tiva C microcontroller is interfaced with:
       
-      - A Keypad
-      - An LCD
-      - A Solenoid Lock
-      - A Buzzer
+* Keypad
+* LCD
+* Solenoid Lock
+* Buzzer
 
 The safe-box allows the user to configure a specific 4-digit password, then the safe can be locked. It can be unlocked at any time by entering the configured password. A reset feature allows the user to re-configure the safe password, provided they can unlock the safe.
 
