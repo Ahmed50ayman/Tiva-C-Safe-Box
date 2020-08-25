@@ -1,17 +1,5 @@
 # Safe-Box
-A Tiva C-Based Safe-Box Project Implemented in C.
-
-# Team Members  :muscle:
-
-Name | ID
------------- | -------------
-Christine Magdy | 16E0129
-Mariam Atef | 1601372
-Mary Malak | 1601069
-Martina Fadi | 1601053
-Maryham Melad | 1601075
-Michael Magdy | 16T0076
-
+A Tiva C-Based Safe Project Implemented in C.
 
 # Overview
 The Tiva C microcontroller is interfaced with:
